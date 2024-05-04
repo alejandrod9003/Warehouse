@@ -1,0 +1,4 @@
+repository "AI_warehouse@alejandroc9003@cloud"
+  path "/"
+    br "/main"
+    co "/main"

@@ -1,0 +1,33 @@
+# This is a basic .gitignore for Unity projects
+
+# Ignore all files in these directories
+[Ll]ibrary/
+[Ll]ogs/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Tt]emp/
+[Tt]humbs.db
+
+# Ignore specific file types
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Visual Studio / VSCode cache and configuration
+*.vs/
+*.vscode/
+*.idea/
+
+# OS generated files
+.DS_Store
+desktop.ini
+
